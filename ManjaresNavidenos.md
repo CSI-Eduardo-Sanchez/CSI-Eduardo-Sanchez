@@ -15,8 +15,7 @@
 - 1 lata de 14 onzas de leche condensada 
 - 2 cucharradas de extracto de vainilla 
 - 1 taza de azucar para acaramelar el molde
-#### Referencias: 
-https://welcome.topuertorico.org/cocina/flan.shtm
+
 ### Procedimiemtos:
 1. Pre calienta el horno a 350°F y ten a mano el molde que usarás para el baño de maría.
 2. Coloca el azúcar para el caramelo en un sartén a fuego medio con las 2 cucharadas de agua hasta que se derrita en forma homogénea.
@@ -28,6 +27,9 @@ https://welcome.topuertorico.org/cocina/flan.shtm
 8. Verifica que esté listo utilizando un palito para pinchos o un cuchillo fino. Si salen limpios significa que ya está listo.
 9. Sácalo del horno con mucho cuidado de no quemarte y ponlo sobre una parrilla de alambre. Deja enfriar a temperatura ambiente hasta que esté completamente frio.
 10. Desmolda y lleva a la nevera hasta el momento de servirlo.
+
+#### Referencias: 
+https://welcome.topuertorico.org/cocina/flan.shtm
 
 ### Video:
 -https://youtu.be/eVlNX4bna8I
